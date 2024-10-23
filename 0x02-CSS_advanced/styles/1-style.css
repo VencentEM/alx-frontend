@@ -1,0 +1,5 @@
+/* Enable smooth scrolling 
+To achieve effortless transitions when scrolling, you can implement smooth scrolling using CSS. This will make scrolling feel more fluid and continuous, improving the user experience.*/
+html {
+    scroll-behavior: smooth;
+}
